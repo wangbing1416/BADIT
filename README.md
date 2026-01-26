@@ -1,5 +1,8 @@
-# Decomposing the Basic Abilities of LLM in Multi-Task Instruct-Tuning
+# Decomposing the Basic Abilities of LLMs in Multi-Task Instruct-Tuning
 
+<p align="center">
+<img src="logo.jpg" alt="logo" width="500">
+</p>
 
 This is the repository for our paper _Decomposing the Basic Abilities of LLM in Multi-Task Instruct-Tuning_
 
